@@ -3,7 +3,7 @@ import os
 
 setup(
     name="homopolish",
-    version="0.0.2",
+    version="0.2.1",
     url='https://github.com/ythuang0522/homopolish',
     author='ythuang0522',
     packages=find_packages(),
